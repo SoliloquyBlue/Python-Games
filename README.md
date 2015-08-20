@@ -9,3 +9,12 @@ http://www.codeskulptor.org/#user40_jVghJeSVR3_1.py
 
 Pong
 http://www.codeskulptor.org/#user40_Lwhqwd57ef_15.py
+
+Memory
+http://www.codeskulptor.org/#user40_6F2G8CGiAE_7.py
+
+Blackjack
+http://www.codeskulptor.org/#user40_wxU6CgiH0C_10.py
+
+Asteroids
+http://www.codeskulptor.org/#user40_GEWq6k0Clj_7.py
