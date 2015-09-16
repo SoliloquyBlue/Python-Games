@@ -18,3 +18,6 @@ http://www.codeskulptor.org/#user40_wxU6CgiH0C_10.py
 
 Asteroids
 http://www.codeskulptor.org/#user40_GEWq6k0Clj_7.py
+
+2048
+http://www.codeskulptor.org/#user40_EyW7zpqQAL_8.py
